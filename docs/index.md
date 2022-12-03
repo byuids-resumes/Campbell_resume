@@ -24,8 +24,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Data Science Lead
-
 `October 2022 - Current`
 __Melaleuca Inc.__, IT Help Desk Technician
 
